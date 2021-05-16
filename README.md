@@ -23,8 +23,8 @@ $ sudo mkdir -p /opt/wp-operation
 2. Copy this script
 
 ```sh
-$ sudo wget https://raw.githubusercontent.com/nawawi/wp-backup.sh/main/wp-backup.sh -O /opt/wp-operation/wp-backup.sh
-$ sudo chmod 755 /opt/wp-operation/wp-backup.sh
+sudo wget https://raw.githubusercontent.com/nawawi/wp-backup.sh/main/wp-backup.sh -O /opt/wp-operation/wp-backup.sh
+sudo chmod 755 /opt/wp-operation/wp-backup.sh
 ```
 
 3. Set _SRCPATH. This script will scan for multiple websites, for example:
