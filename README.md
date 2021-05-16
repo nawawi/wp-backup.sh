@@ -14,7 +14,7 @@ Auto Backup WordPress wp-config.php and wp-content for multiple websites. This s
 
 ## Installation
 
-1.  Create installation path
+1.  Create working directory
 
 ```sh
 $ sudo mkdir -p /opt/wp-operation
