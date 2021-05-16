@@ -9,7 +9,8 @@ Auto Backup WordPress wp-config.php and wp-content for multiple websites. This s
 
 1. dos2unix
 2. mysqldump
-3. bash
+3. tar
+4. bash
 
 
 ## Installation
