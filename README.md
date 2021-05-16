@@ -30,8 +30,8 @@ sudo chmod 755 /opt/wp-operation/wp-backup.sh
 
 3. Set _SRCPATH. This script will scan for multiple websites, for example:
 
-/home/webapp/website1/wp-config.php
-/home/webapp/website2/wp-config.php
+/home/webapp/website1/wp-config.php  
+/home/webapp/website2/wp-config.php  
 /home/webapp/website3/wp-config.php
 
 your _SRCPATH is a "/home/webapp"
